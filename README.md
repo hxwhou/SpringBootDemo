@@ -1,2 +1,2 @@
 # SpringBootDemo
-This demo is for a Spring boot project
+This demo is a Spring boot project for practicing git usage.
